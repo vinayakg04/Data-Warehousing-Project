@@ -12,6 +12,9 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
+This project follows the follwowing data flow between the bronze, silver and gold layers:
+![Data Flow](/docs/data_flow.PNG)
+
 ---
 ## 📖 Project Overview
 
