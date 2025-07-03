@@ -15,6 +15,9 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 This project follows the follwowing data flow between the bronze, silver and gold layers:
 ![Data Flow](/docs/data_flow.PNG)
 
+The various tables from CRM and ERP are related to each other in following way:
+![Data Ingestion](/docs/data_ingestion.PNG)
+
 ---
 ## 📖 Project Overview
 
