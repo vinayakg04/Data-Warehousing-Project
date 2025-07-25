@@ -30,7 +30,8 @@ This project involves:
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
-Notion Document for Project : https://www.notion.so/SQL-Data-Warehouse-Project-2248d81eb70780b38015d471ee1dfbdd
+Notion Document for Project : 
+https://www.notion.so/SQL-Data-Warehouse-Project-2248d81eb70780b38015d471ee1dfbdd
 ---
 
 ## 🛠️ Important Links & Tools:
